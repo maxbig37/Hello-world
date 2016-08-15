@@ -3,4 +3,4 @@ My Name is Max
 
 Hi humans !
 
-Im learn writing scripts 
+Im learning to write scripts 
